@@ -4,7 +4,7 @@ This repo offers C++ implementations of fundamental data structures (like arrays
 
 
 ## Overview
-This repository contains implementations of various data structures and algorithms in C++. Each implementation is documented with explanations and includes unit tests for validation.
+This repository will contain implementations of various data structures and algorithms in C++. Each implementation is documented with explanations and includes unit tests for validation.
 
 ## Contents
 - **Data Structures:**
